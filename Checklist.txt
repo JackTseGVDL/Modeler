@@ -1,0 +1,31 @@
+Modeler Bells and Whistles checklist for grading
+
+HKUST login(s): cytseac
+
+Basic requirements: 
+Please state what 2B you implemented to exclude from your B/W scores below
+B Polygonal Faces (Prism)
+B New Primitives (Torus-adjustable)
+
+B/W:
+
+W dramatic light					no
+W adjustable LoD					no
+W your idea
+
+1. predefined model object
+2. model object can attach on another model object
+3. can automatically add control widget based on the model object tree provided
+
+B texture map						no
+B polygonal faces (triangles)				yes 
+B animation       					no
+B individual looking (not just red/green) 		no
+B frame all						no 
+BW up vector 						no
+2B new primitives for each 				yes (torus)
+2B L-system						no
+2B mood cycling 					no
+4B metaballs						no
+8B goal-oriented motion 				no
++4B joint contraints 					no

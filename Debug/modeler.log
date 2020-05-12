@@ -1,0 +1,16 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  sample.cpp
+D:\LearningMaterial\2019_2020_Spring\COMP4411\Project\Project_2\ModSkelS20\sample.cpp(186,21): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+D:\LearningMaterial\2019_2020_Spring\COMP4411\Project\Project_2\ModSkelS20\sample.cpp(185,56): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+D:\LearningMaterial\2019_2020_Spring\COMP4411\Project\Project_2\ModSkelS20\sample.cpp(184,25): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+D:\LearningMaterial\2019_2020_Spring\COMP4411\Project\Project_2\ModSkelS20\sample.cpp(183,25): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+  ModelControl.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  ModelObject_Torus.cpp
+  ModelObject_Sphere.cpp
+  ModelObject_Prism.cpp
+  ModelObject_Cylinder.cpp
+  ModelObject_Box.cpp
+  ModelObject.cpp
+  modeler.vcxproj -> D:\LearningMaterial\2019_2020_Spring\COMP4411\Project\Project_2\ModSkelS20\.\Debug\modeler.exe
